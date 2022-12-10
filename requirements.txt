@@ -1,0 +1,4 @@
+flask
+flask_restplus
+watson-developer-cloud>=1.5.0
+google-cloud-speech
